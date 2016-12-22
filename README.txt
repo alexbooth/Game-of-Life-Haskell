@@ -1,3 +1,7 @@
+![](/images/Variable_FPS_Example.gif)  ![](/images/Glider.gif)
+
+
+
 Theo Chitayat
 Jackson Mandeville
 Alexander Booth
