@@ -1,10 +1,8 @@
-![](/images/Variable_FPS_Example.gif)  ![](/images/Glider.gif)
+<img src="https://raw.githubusercontent.com/alexdbooth/Game-of-Life-Haskell/master/images/Variable_FPS_Example.gif" width="300"><img src="https://raw.githubusercontent.com/alexdbooth/Game-of-Life-Haskell/master/images/Glider.gif" width="300">
+<img src="https://raw.githubusercontent.com/alexdbooth/Game-of-Life-Haskell/master/images/Glider_gun.gif" width="300"><img src="https://raw.githubusercontent.com/alexdbooth/Game-of-Life-Haskell/master/images/Pentadecathalon.gif" width="300">
+<img src="https://raw.githubusercontent.com/alexdbooth/Game-of-Life-Haskell/master/images/Trippy.gif" width="300">
 
-
-
-Theo Chitayat
-Jackson Mandeville
-Alexander Booth
+Alexander Booth, Theo Chitayat, Jackson Mandeville
 
 Conway's Game of Life in Haskell
 
@@ -19,10 +17,12 @@ Instead we have included a compiled version for speed and simplicity. It was com
 In order to compile the code, the Gloss graphics package will need to be installed. 
 
 To compile it use the following command:
-ghc -o game_of_life Game_of_Life.hs -O3
+
+	ghc -o game_of_life Game_of_Life.hs -O3
 
 Then run it using:
-./game_of_life
+
+	./game_of_life
 
 
 CONTROLS:
